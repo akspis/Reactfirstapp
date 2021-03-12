@@ -2,3 +2,14 @@
   font-family: sans-serif;
   text-align: center;
 }
+body {
+  background-color: lightyellow;
+}
+input {
+  margin: 1rem;
+  padding: 1rem;
+  width: 50%;
+  text-align: center;
+  border: solid;
+  border-radius: 1rem;
+}
